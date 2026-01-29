@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/aladhan-api/*"
-  to = "http://api.aladhan.com/:splat"
+  to = "https://api.aladhan.com/:splat"   # ← yahan http ko https kar do
   status = 200
   force = true
