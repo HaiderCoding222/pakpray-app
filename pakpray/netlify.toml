@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/aladhan-api/*"
+  to = "http://api.aladhan.com/:splat"
+  status = 200
+  force = true
